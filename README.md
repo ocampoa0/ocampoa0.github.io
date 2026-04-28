@@ -5,12 +5,12 @@ A straightfoward personal blog for people who might be interested on my story.
 ## My personal and prety straigthfoward blog of my Milano journey seen through my blue lens.
 
 ### Index
-#### 1. [Biography](https://github.com/ocampoa0/ocampoa0.github.io/edit/main/README.md#biography)
-#### 2. [Skills](https://github.com/ocampoa0/ocampoa0.github.io/edit/main/README.md#skills)
-#### 3. [Passions](https://github.com/ocampoa0/ocampoa0.github.io/edit/main/README.md#passions)
-#### 4. [Inspirational websites](inspirational-weebsites)
-#### 5. [Fun)? stories](#fun-stories)
-#### 6. [Contact Information](#contact-information)
+#### 1. [Biography](https://ocampoa0.github.io/#biography)
+#### 2. [Skills](https://ocampoa0.github.io/#skills)
+#### 3. [Passions](https://ocampoa0.github.io/#passions)
+#### 4. [Inspirational websites](https://ocampoa0.github.io/#4-inspirational-websites)
+#### 5. [Fun)? stories](https://ocampoa0.github.io/#fun-stories)
+#### 6. [Contact Information](https://ocampoa0.github.io/#contact-information)
 
 
 

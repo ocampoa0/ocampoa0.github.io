@@ -19,6 +19,7 @@ A straightfoward personal blog for people who might be interested on my story.
 Im a current student of design in the second year at the Scuola Politecnica Design in Milan. I am from Buenos Aires, Argentina and moved to the capital city of design for the relationship with my studies but also because it is much simpler to travel around from here. I love memories in all their formats. 
 
 ### **Skills**
+- Organize
 - 
 - Leading groups
 
@@ -34,10 +35,10 @@ Im a current student of design in the second year at the Scuola Politecnica Desi
 - 🕸️ [Behance](https://www.behance.net/)
 
 ### **Fun)? stories**
-
+lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 
 ### **Contact information**
-📱 +39 333 1430 141
+📱 [Phone number](tel:+393331430141)
 📫 [Email](mailto:azulocampo1405@gmail.com)
 📷 [Instagram](https://www.instagram.com/azulocampoo/)
 🎵 [Tiktok](https://www.tiktok.com/@azulocampo_)

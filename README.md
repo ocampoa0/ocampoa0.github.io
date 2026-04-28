@@ -5,16 +5,39 @@ A straightfoward personal blog for people who might be interested on my story.
 ## My personal and prety straigthfoward blog of my Milano journey seen through my blue lens.
 
 ### Index
-#### 1. Biography
-#### 2. skills
-#### 3. Passions
-#### 4. Inspirational websites
-#### 5. Fun Facts
-#### 6. Fun)? stories
-#### 7. Contact
+#### 1. [Biography](https://github.com/ocampoa0/ocampoa0.github.io/edit/main/README.md#biography)
+#### 2. [Skills](https://github.com/ocampoa0/ocampoa0.github.io/edit/main/README.md#skills)
+#### 3. [Passions](https://github.com/ocampoa0/ocampoa0.github.io/edit/main/README.md#passions)
+#### 4. [Inspirational websites](inspirational-weebsites)
+#### 5. [Fun)? stories](#fun-stories)
+#### 6. [Contact Information](#contact-information)
 
 
 
 
-   
+### **Biography**
+Im a current student of design in the second year at the Scuola Politecnica Design in Milan. I am from Buenos Aires, Argentina and moved to the capital city of design for the relationship with my studies but also because it is much simpler to travel around from here. I love memories in all their formats. 
 
+### **Skills**
+- 
+- Leading groups
+
+### **Passions**
+- Travelling around
+- Meeting new people
+- Taking pictures
+- Eating
+
+### **Inspirational websites**
+- 🖼️ [Pinterest](https://it.pinterest.com/) 
+- 📷 [Instagram](https://www.instagram.com/)
+- 🕸️ [Behance](https://www.behance.net/)
+
+### **Fun)? stories**
+
+
+### **Contact information**
+📱 +39 333 1430 141
+📫 [Email](mailto:azulocampo1405@gmail.com)
+📷 [Instagram](https://www.instagram.com/azulocampoo/)
+🎵 [Tiktok](https://www.tiktok.com/@azulocampo_)

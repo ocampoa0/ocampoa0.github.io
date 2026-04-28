@@ -19,9 +19,9 @@ A straightfoward personal blog for people who might be interested on my story.
 Im a current student of design in the second year at the Scuola Politecnica Design in Milan. I am from Buenos Aires, Argentina and moved to the capital city of design for the relationship with my studies but also because it is much simpler to travel around from here. I love memories in all their formats. 
 
 ### **Skills**
-- Organize
-- 
-- Leading groups
+- Organizing
+- Listening
+- Leading
 
 ### **Passions**
 - Travelling around

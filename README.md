@@ -1,21 +1,15 @@
 # ocampoa0.github.io
-A simple and efficient personal website to learn how to use github.
+A straightfoward personal blog for people who might empathise with me.
 
-# My personal webssite
-## How to use github
-### Different characteristics
+# Milano pintado de Azul
+## My personal and prety straigthfoward blog (or better), diary of my Milano journey ;).
 
-- this
-- is 
-- an
-- unordered
-- list
+###Index
+1. Biography
+2. Experiences
+3. Stories
+4. Facts
 
-1. this
-2. is
-3. an
-4. ordered
-5. list
 
    
 

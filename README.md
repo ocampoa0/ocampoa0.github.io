@@ -22,6 +22,8 @@ Im a current student of design in the second year at the Scuola Politecnica Desi
 - Organizing
 - Listening
 - Leading
+- Editing
+- Drawing
 
 ### **Passions**
 - Travelling around
